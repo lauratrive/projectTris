@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Impostazioni</string>
+    <string name="main_str1">La bestemmia è un reato!</string>
+    <string name="main_play">Gioca</string>
+    <string name="rb_best">Bestemmie</string>
+    <string name="ply_1">Giocatore 1</string>
+    <string name="ply_2">Giocatore 2</string>
+    <string name="label_act2">Nomi giocatori</string>
+    <string name="btn_act2">Avanti</string>
+    <string name="done">Fatto</string>
+    <string name="turn">TURNO</string>
+    <string name="ply_done">Inserisci il nome dei giocatori</string>
+    <string name="winner">Il vincitore è: %s</string>
+    <string name="no_win">Non c\'è nessun vincitore!</string>
+    <string name="exit">Home</string>
+    <string name="reset">Rigioca</string>
+    <string name="dio">Dio</string>
+    <string name="mod">Seleziona la modalità di gioco</string>
+    <string name="btooth">Gioca con un amico attraverso il Bluetooth</string>
+    <string name="no_btooth">Gioca con un amico su questo dispositvo</string>
+    <string name="support">Questo dispositivo non supporta il Bluetooth</string>
+    <string name="bt_enable">Bluetooth abilitato</string>
+    <string name="bt_notenabled">Bluetooth non abilitato</string>
+    <string name="vis">Il tuo dispositivo sarà visibile per %d secondi</string>
+    <string name="vis_not">Impossibile avviare la ricerca</string>
+    <string name="discover">Ricerca dispositivi Bluetooth</string>
+    <string name="discover_failed">Impossibile avviare la ricerca</string>
+    <string name="connection">Connessione accettata</string>
+    <string name="device">Lista dispositivi</string>
+    <string name="main_str2">Bestemmia con prudenza  e misericordia</string>
+</resources>
